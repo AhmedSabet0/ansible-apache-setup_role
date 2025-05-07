@@ -52,4 +52,4 @@ cd ansible-apache-setup_role
 | ----------- | ------- | ----------------------------- |
 | `http_port` | `88`    | Port number Apache should use |
 
-👨‍💻 Author: Ahmed Thabet
+👨‍💻 Author: Ahmed Mahmoud Thabet  احمد محمود ثابت
